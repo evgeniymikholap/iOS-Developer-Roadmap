@@ -148,10 +148,10 @@ Tapping on a link will take you to relevant materials.
                     - [ ] React Native
                     - [ ] RxSwift
                     - [ ] RxRealm, RxDataSources
-        - [ ] `Dependencies management`
-            - [ ] Cocoapods
-            - [ ] Carthage
-            - [ ] Swift Package Manager
+        - [x] `Dependencies management`
+            - [x] Cocoapods
+            - [x] Carthage
+            - [x] Swift Package Manager
         - [ ] Project structure and File/Group organisation
         - [ ] `Version Control Systems`
             - [ ] [`Git`](Resources/iOS_Developer/Practical_knowledge/Version_Control_Systems/Git/RESOURCES.md)
