@@ -164,12 +164,12 @@ Tapping on a link will take you to relevant materials.
             - [ ] [Core Data](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Core_Data/RESOURCES.md)
             - [ ] Realm
             - [ ] YAPDatabase
-        - [ ] `Testing`
-            - [ ] [`Unit Tests`](Resources/iOS_Developer/Practical_knowledge/Testing/Unit_Tests/RESOURCES.md)
-            - [ ] Snapshot Tests
-            - [ ] Functional test
-            - [ ] TDD
-            - [ ] [BDD](Resources/iOS_Developer/Practical_knowledge/Testing/BDD/RESOURCES.md)
+        - [x] `Testing`
+            - [x] [`Unit Tests`](Resources/iOS_Developer/Practical_knowledge/Testing/Unit_Tests/RESOURCES.md)
+            - [x] Snapshot Tests
+            - [x] Functional test
+            - [x] TDD
+            - [x] [BDD](Resources/iOS_Developer/Practical_knowledge/Testing/BDD/RESOURCES.md)
         - [ ] Performance optimization
             - [ ] Increase FPS
             - [ ] Decrease memory footprint
