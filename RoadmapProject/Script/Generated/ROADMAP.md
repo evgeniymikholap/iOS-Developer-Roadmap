@@ -141,7 +141,7 @@ Tapping on a link will take you to relevant materials.
                 - [ ] `Inversion of Control`
                     - [x] [`Dependency Injection`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Principles/Inversion_of_Control/Dependency_Injection/RESOURCES.md)
                     - [ ] Service Locator
-                - [ ] [Protocol-Oriented Programming](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Principles/Protocol-Oriented_Programming/RESOURCES.md)
+                - [x] [Protocol-Oriented Programming](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Principles/Protocol-Oriented_Programming/RESOURCES.md)
             - [ ] Object-Oriented Programming
             - [ ] Functional programming
                 - [ ] Functional Reactive Programming Frameworks
