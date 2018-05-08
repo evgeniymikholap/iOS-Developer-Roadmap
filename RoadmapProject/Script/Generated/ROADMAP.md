@@ -42,7 +42,7 @@ Tapping on a link will take you to relevant materials.
             - [x] [Perform selector family](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurency/Perform_selector_family/RESOURCES.md)
             - [x] [`GCD`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurency/GCD/RESOURCES.md)
             - [x] [`NSOperation(Queue)`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurency/NSOperation(Queue)/RESOURCES.md)
-            - [ ] [`Runloop`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurency/Runloop/RESOURCES.md)
+            - [x] [`Runloop`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurency/Runloop/RESOURCES.md)
             - [x] [`Synchronization`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurency/Synchronization/RESOURCES.md)
             - [x] [Problems](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurency/Problems/RESOURCES.md)
                 - [x] [Race condition](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurency/Problems/Race_condition/RESOURCES.md)
