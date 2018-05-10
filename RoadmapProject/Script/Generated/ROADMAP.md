@@ -99,14 +99,14 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Singleton
                     - [ ] Template Method
                     - [ ] MVC
-                - [ ] [`Architectural`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
-                    - [ ] [`MVC`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
+                - [x] [`Architectural`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
+                    - [x] [`MVC`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
                     - [x] [`MVVM`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)
-                    - [ ] `MVP`
-                    - [ ] [`Clean architecture`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
+                    - [x] `MVP`
+                    - [x] [`Clean architecture`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
                         - [x] [VIPER](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
-                        - [ ] [RIBs](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RIBs/RESOURCES.md)
-                    - [ ] [Coordinators](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
+                        - [x] [RIBs](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RIBs/RESOURCES.md)
+                    - [x] [Coordinators](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
                 - [ ] `Creational`
                     - [ ] Factory
                     - [ ] Abstract Factory
