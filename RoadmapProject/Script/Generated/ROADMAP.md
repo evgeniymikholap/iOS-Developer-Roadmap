@@ -72,7 +72,7 @@ Tapping on a link will take you to relevant materials.
                 - [x] [`Networking`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Networking/RESOURCES.md)
                 - [ ] [`Serialization`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/RESOURCES.md)
                     - [ ] [NSCoding](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/NSCoding/RESOURCES.md)
-                    - [ ] [`Codable`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/Codable/RESOURCES.md)
+                    - [x] [`Codable`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/Codable/RESOURCES.md)
                     - [ ] [`JSON`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/JSON/RESOURCES.md)
                     - [ ] [XML](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/XML/RESOURCES.md)
                     - [ ] [Protobuf](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/Protobuf/RESOURCES.md)
